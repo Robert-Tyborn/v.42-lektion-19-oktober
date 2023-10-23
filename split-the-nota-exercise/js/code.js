@@ -1,59 +1,59 @@
 //Dessa är alla variabler du behöver använda. 
 //De ska dock ligga i olika funktioner och inte nedanför.
 
-/*
-const tip;
-const sum;
-const numberOfFriends;
-const total;
-const friendSum;
-const sumDivided;
-const calculatedTip;
-*/
 
-const showSumElem = document.querySelector('#showSum');
-const inputFormElem = document.querySelector('#inputForm');
-const friendSumElem = document.querySelector('#friendSum');
-const calculateButton = document.querySelector('#calculateButton');
+// const tip;
+// const sum;
+// const numberOfFriends;
+// const total;
+// const friendSum;
+// const sumDivided;
+// const calculatedTip;
+
+
+// const showSumElem = document.querySelector('#showSum');
+// const inputFormElem = document.querySelector('#inputForm');
+// const friendSumElem = document.querySelector('#friendSum');
+// const calculateButton = document.querySelector('#calculateButton');
 
 //Hämtar det som skrivits i inputfältet med ID tip
-document.querySelector('#tip').value;
+// document.querySelector('#tip').value;
 
-function calculateTip(sum, tip) {}
+// function calculateTip(sum, tip) {}
 
-calculateButton.addEventListener('click', () => {});
+// calculateButton.addEventListener('click', () => {});
 
 //Hämtar det som skrivits i inputfältet med ID sum
-document.querySelector('#sum').value;
+// document.querySelector('#sum').value;
 
-calculateTip(sum, tip);
+// calculateTip(sum, tip);
 
-parseInt(sum) + calculatedTip;
+// parseInt(sum) + calculatedTip;
 
-function divideTotal(total, numberOfFriends) {}
+// function divideTotal(total, numberOfFriends) {}
 
-friendSumElem.innerHTML = sum + ' kr';
+// friendSumElem.innerHTML = sum + ' kr';
 
 //Returnerar värdet i variablen sumDivided i en funktion
-return sumDivided;
+// return sumDivided;
 
-showDividedSum(friendSum);
+// showDividedSum(friendSum);
 
-showSumElem.classList.toggle('hide');
+// showSumElem.classList.toggle('hide');
 
-total / parseInt(numberOfFriends);
+// total / parseInt(numberOfFriends);
 
-function showDividedSum(sum) {}
+// function showDividedSum(sum) {}
 
-inputFormElem.classList.toggle('hide');
+// inputFormElem.classList.toggle('hide');
 
 // Gör om från sträng till siffra och från sträng till decimaltal
-parseInt(sum) * parseFloat(tip);
+// parseInt(sum) * parseFloat(tip);
 
 //Returnerar värdet i variablen total i en funktion
-return total;
+// return total;
 
-divideTotal(total, numberOfFriends);
+// divideTotal(total, numberOfFriends);
 
 //Hämtar det som skrivits i inputfältet med ID numberOfFriends
-document.querySelector('#numberOfFriends').value;
+// document.querySelector('#numberOfFriends').value;
